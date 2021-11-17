@@ -80,7 +80,7 @@ Acesse <http://localhost:3000> para ver o resultado.
   <tr>
     <td align="center">
       <a href="http://github.com/Jeffx234/">
-        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Jeferson Luis"/>
+        <img src="https://avatars.githubusercontent.com/u/86368923?s=400&u=3199e2a3a463e6535c9c93ee07005338070c411c&v=4" width="100px;" alt="Jeferson Luis"/>
         <br />
         <sub>
           <b>Jeferson Luis</b>
@@ -92,7 +92,7 @@ Acesse <http://localhost:3000> para ver o resultado.
     </td>
     <td align="center">
       <a href="http://github.com/Jeffx234">
-        <img src="https://avatars.githubusercontent.com/u/86368923?s=400&u=3199e2a3a463e6535c9c93ee07005338070c411c&v=4" width="100px;" alt="Jeferson Luis"/>
+        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Jeferson Luis"/>
         <br />
         <sub>
           <b>Rocketseat</b>
