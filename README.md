@@ -91,7 +91,7 @@ Acesse <http://localhost:3000> para ver o resultado.
        <br />
     </td>
     <td align="center">
-      <a href="http://github.com/Jeffx234">
+      <a href="http://github.com/Rocketseat">
         <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Jeferson Luis"/>
         <br />
         <sub>
