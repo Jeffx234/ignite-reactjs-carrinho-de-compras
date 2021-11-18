@@ -47,7 +47,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$
+$ https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras.git
 ```
 
 ```bash
