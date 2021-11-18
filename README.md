@@ -18,8 +18,8 @@
 ### Fotos
 
 <div>
-   <img src="https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras/blob/master/src/assets/images/carrinhodecompras.gif" width="400px" />
    <img src="https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras/blob/master/src/assets/images/carrinho.gif" width="400px" />
+   <img src="https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras/blob/master/src/assets/images/carrinhodecompras.gif" width="400px" />
 
 </div>
 
