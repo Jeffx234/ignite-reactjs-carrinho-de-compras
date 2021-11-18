@@ -1,8 +1,3 @@
-p align="center">
-<img src="" alt="Rocketshoes" width="280"/>
-
-</p>
-
 <p align="center">
    <a href="https://www.linkedin.com/in/jeferson-luis-055720210/">
       <img alt="Jeferson Luis" src="https://img.shields.io/badge/-Jeferson Luis-8257E6?style=flat&logo=Linkedin&logoColor=white" />
@@ -23,10 +18,9 @@ p align="center">
 ### Fotos
 
 <div>
-   <img src="" width="400px" />
-   <img src="" width="400px" />
-   <img src="" width="400px" />
-   <img src="" width="400px" />
+   <img src="https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras/blob/master/src/assets/images/carrinhodecompras.gif" width="400px" />
+   <img src="https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras/blob/master/src/assets/images/carrinho.gif" width="400px" />
+
 </div>
 
 # :computer: Tecnologias
